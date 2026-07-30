@@ -1,3 +1,3 @@
 print("Hello, World!")
 
-print("Edit")
+print("Edit in GitHub")
